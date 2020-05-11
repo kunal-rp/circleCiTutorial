@@ -1,0 +1,25 @@
+{
+  "name": "circlecitutorial",
+  "version": "1.0.0",
+  "description": "tutorial on using cicd circle ci in developtment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kunal-rp/circleCiTutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kunal-rp/circleCiTutorial/issues"
+  },
+  "homepage": "https://github.com/kunal-rp/circleCiTutorial#readme",
+  "dependencies": {
+    "mocha": "^7.1.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
